@@ -11,6 +11,10 @@ Here the working code of the project and the logs of program versions will be la
 
 Здесь будет выкладываться рабочий код проекта и логи версий программ, со ссылками.
 
+ver 1.0 - 23.08.2019
+Первая стабильная версия скетча для Ардуино. 
+
+
 
 
 
