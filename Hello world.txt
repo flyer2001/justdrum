@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-print "Hello World!";
-print "Hello!!!";
-pritn "Hello off"; 
-=======
->>>>>>> master
